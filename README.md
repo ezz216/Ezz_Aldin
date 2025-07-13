@@ -8,7 +8,7 @@
 - 🏭 Industries: **Manufacturing (Eskaht Glass)**, **Retail (Cizaro)**, **Food (Khalid Khashala Foods)**
 - 🛠 Tools: Python, SQL, Power BI, Excel, Tableau
 - 🌱 Currently exploring **Machine Learning for Business Decision Making**
-- 📧 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Reach me at: (ezzahmed720@gmail.com)
 
 ---
 
